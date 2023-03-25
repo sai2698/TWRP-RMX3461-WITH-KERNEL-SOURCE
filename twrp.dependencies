@@ -1,0 +1,9 @@
+[
+  {
+    "remote": "github",
+    "repository": "chukotka-forever/realme_Q3s_Q3t_9-5G-Speed-AndroidS-kernel-source",
+    "target_path": "kernel/realme/RMX3461",
+    "branch": "master"
+  }
+]
+
